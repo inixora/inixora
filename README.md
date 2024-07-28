@@ -24,8 +24,8 @@
 </div>
 <br />
 <br />
-<h3>Stats</h3>
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haspro68&theme=2077" />
+
+
 <!--
 **Haspro68/Haspro68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
