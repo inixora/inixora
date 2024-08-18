@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Python Developer</h3>
+<h3 align="center">Python Developer</h3>
 <br />
 <br />
 <h3>My stack</h3>
