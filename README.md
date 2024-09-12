@@ -1,42 +1,31 @@
 <h1 align="center">Hi there, I'm Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Backend Developer / Python Developer</h3>
 <br />
-<br />
-<h3>My stack</h3>
-<div class="row">
-  <div class="column">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="50" width="150" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="50" width="150"/>
-    <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" height="50" width="150" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="50" width="150" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="50" width="150" />
-    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white" height="50" width="150" />
-  </div>
-  <div class="column">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" height="50" width="150" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" height="50" width="150" />
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" height="50" width=150" />
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" height="50" width="150" />
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" height="50" width="150" />
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" height="50" width="150" />
-  </div>
-</div>
-<br />
+🌍  I'm based in Armenia, Yerevan <br />
 <br />
 
+✉️  You can contact me at [dprokof73@gmail.com](mailto:dprokof73@gmail.com)
 
-<!--
-**Haspro68/Haspro68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
+
+### Socials
+<p align="left"> <a href="https://www.github.com/dprokof" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/lovelyprokof" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dprokof/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dprokof&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/dprokof?theme=dark)
+
+<b>My GitHub Stats</b>
+
+<br />
+<a href="http://www.github.com/dprokof"><img src="https://github-readme-stats.vercel.app/api?username=dprokof&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="dprokof's GitHub stats" /></a>
+
