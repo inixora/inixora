@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Backend Developer / Python Developer</h3>
+<h3 align="center">Backend Developer</h3>
 <br />
-🌍  I'm based in Armenia, Yerevan <br />
+🌍  I'm based in Russia <br />
 <br />
 
 ✉️  You can contact me at [dprokof73@gmail.com](mailto:dprokof73@gmail.com)
