@@ -22,10 +22,10 @@
 
 <br />
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dprokof?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/inixora?theme=dark)
 
 <b>My GitHub Stats</b>
 
 <br />
-<a href="http://www.github.com/dprokof"><img src="https://github-readme-stats.vercel.app/api?username=dprokof&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="dprokof's GitHub stats" /></a>
+<a href="http://www.github.com/inixora"><img src="https://github-readme-stats.vercel.app/api?username=inixora&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="dprokof's GitHub stats" /></a>
 
